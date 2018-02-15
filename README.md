@@ -1,0 +1,2 @@
+# ACM-HackSchool
+Starting out
